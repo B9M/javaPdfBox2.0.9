@@ -20,14 +20,14 @@ public class App
     {
     	
     	PDFManager pdfManager = new PDFManager();
-	    pdfManager.setFilePath("F:\\Work\\JAVA\\LibSoftware\\testPdfBox1.pdf");
-	//System.out.println(pdfManager.ToText()); 
+	    pdfManager.setFilePath(".\\testPdfBox1.pdf");
+	System.out.println(pdfManager.ToText()); 
 	    
 	    
     	BufferedWriter writer = null;
     	try
     	{
-    	    writer = new BufferedWriter( new FileWriter("F:\\Work\\JAVA\\LibSoftware\\a.txt"));
+    	    writer = new BufferedWriter( new FileWriter("output.txt"));
     	    writer.write(pdfManager.ToText());
 
     	}
