@@ -46,10 +46,10 @@ public class App
     	    }
     	}
     /*	PDFManager pdfManager = new PDFManager();
-	    pdfManager.setFilePath("F:\\Work\\JAVA\\LibSoftware\\testPdfBox1.pdf");
+	    pdfManager.setFilePath("");
 	  // System.out.println(pdfManager.getClass().getSuperclass()); 
 	   // System.out.println(pdfManager.ToText());  
-	    File dest =new File("F:\\Work\\JAVA\\LibSoftware\\a.txt");
+	    File dest =new File("");
 
 	//	FileInputStream fis = new FileInputStream(pdfManager.ToText());
 		InputStreamReader isr = new InputStreamReader(pdfManager.toString());
