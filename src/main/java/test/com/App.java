@@ -20,7 +20,7 @@ public class App
     {
     	
     	PDFManager pdfManager = new PDFManager();
-	    pdfManager.setFilePath(".\\testPdfBox1.pdf");
+	    pdfManager.setFilePath(".\\testPdfBox.pdf");
 	System.out.println(pdfManager.ToText()); 
 	    
 	    
