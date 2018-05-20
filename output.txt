@@ -1,0 +1,200 @@
+
+Access Denied
+The Information Revolution and Global Politics
+William J. Drake and Ernest J. Wilson III, editors
+mitpress.mit.edu/IRGP-series
+The Information Revolution and Developing Countries
+Ernest J. Wilson III, 2004
+Human Rights in the Global Information Society
+edited by Rikke Frank Jørgensen, 2006
+Mobile Communication and Society: A Global Perspective
+Manuel Castells, Mirela Fernández-Ardèvol, Jack Linchuan Qiu, and Araba Sey,
+2007
+Access Denied: The Practice and Policy of Global Internet Filtering
+edited by Ronald Deibert, John Palfrey, Rafal Rohozinski, and Jonathan Zittrain,
+2008
+Access Denied
+The Practice and Policy of Global Internet Filtering
+edited by Ronald Deibert, John Palfrey, Rafal Rohozinski, and
+Jonathan Zittrain
+The MIT Press Cambridge, Massachusetts London, England
+( 2008 The President and Fellows of Harvard College
+All rights reserved. No part of this book may be reproduced in any form by any electronic or
+mechanical means (including photocopying, recording, or information storage and retrieval)
+without permission in writing from the publisher.
+For information about special quantity discounts, please e-mail special_sales@mitpress.mit
+.edu.
+This book was set in Swis721 on 3B2 by Asco Typesetters, Hong Kong.
+Printed and bound in the United States of America.
+Library of Congress Cataloging-in-Publication Data
+Access denied : the practice and policy of global Internet filtering / edited by Ronald
+Deibert . . . [et al.].
+p. cm. — (The information revolution & global politics series)
+Includes bibliographical references and index.
+ISBN 978-0-262-54196-1 (pbk. : alk. paper) — ISBN 978-0-262-04245-1 (hardcover : alk.
+paper)
+1. Computers—Access control. 2. Internet—Censorship. 3. Internet—Government policy.
+I. Deibert, Ronald.
+QA76.9.A25.A275 2008
+005.8—dc22 2007010334
+10 9 8 7 6 5 4 3 2 1
+Contents
+Foreword vii
+Janice Stein
+Preface ix
+John Palfrey
+Introduction 1
+Jonathan Zittrain and John Palfrey
+1 Measuring Global Internet Filtering 5
+Robert Faris and Nart Villeneuve
+2 Internet Filtering: The Politics and Mechanisms of Control 29
+Jonathan Zittrain and John Palfrey
+3 Tools and Technology of Internet Filtering 57
+Steven J. Murdoch and Ross Anderson
+4 Filtering and the International System: A Question of Commitment 73
+Mary Rundle and Malcolm Birdling
+5 Reluctant Gatekeepers: Corporate Ethics on a Filtered Internet 103
+Jonathan Zittrain and John Palfrey
+6 Good for Liberty, Bad for Security? Global Civil Society and the
+Securitization of the Internet 123
+Ronald Deibert and Rafal Rohozinski
+Regional Overviews 151
+Introduction 153
+Asia 155
+Australia and New Zealand 166
+Commonwealth of Independent States 177
+Europe 186
+Latin America 197
+Middle East and North Africa 207
+Sub-Saharan Africa 213
+United States and Canada 226
+Country Summaries 235
+Introduction 237
+Afghanistan 240
+Algeria 245
+Azerbaijan 249
+Bahrain 254
+Belarus 258
+China (including Hong Kong) 263
+Cuba 272
+Egypt 276
+Ethiopia 281
+India 286
+Iran 292
+Iraq 300
+Israel 304
+Jordan 308
+Kazakhstan 312
+Kyrgyzstan 317
+Libya 321
+Malaysia 325
+Moldova 329
+Morocco 333
+Myanmar (Burma) 338
+Nepal 343
+North Korea 347
+Oman 350
+Pakistan 355
+Saudi Arabia 360
+Singapore 364
+South Korea 369
+Sudan 375
+Syria 380
+Tajikistan 385
+Thailand 390
+Tunisia 395
+Ukraine 400
+United Arab Emirates 405
+Uzbekistan 409
+Venezuela 416
+Vietnam 420
+Yemen 425
+Zimbabwe 429
+Contributors 433
+Index 435
+vi Contents
+Foreword
+The Internet is the operating system of global politics. Ideas, messages, news, information,
+and money ricochet around the world in minutes, crossing time zones and borders in real
+time. Charities, banks, corporations, governments, nongovernmental organizations, and ter-
+rorist organizations all use the Internet to do business, to organize, and to speed communica-
+tions. Internet technology is implicated in almost everything done in world politics today.
+But the Internet is not the free operating zone that its early proponents expected. Contrary
+to conventional wisdom, states have shown an increased willingness to intervene to control
+communication through the Internet. And they have done so with precision and effectiveness.
+At the beginning of the decade, few were aware of the scale of the problem. Advocacy and
+rights organizations charged that a handful of countries were blocking access to Web sites,
+but they had little evidence to support their claims. Good empirical knowledge of the scope
+of the problem did not exist.
+Four years ago, a group of scholars at the University of Toronto, Harvard, and Cambridge
+(Oxford joined later) came together to begin systematic research on patterns of Internet cen-
+sorship and surveillance worldwide. At the time, the project seemed very ambitious. The
+researchers proposed to put together a combination of contextual political and legal research
+and technical interrogations of the Internet in the countries under investigation. It relied heavily
+on the work of partners working in the countries where governments were engaged in active
+censorship. The project was extraordinarily challenging; in almost every case, the research
+implied a direct threat to national security and put researchers’ personal safety at risk.
+The project was ambitious in other ways as well. A transatlantic collaboration among four
+universities is difficult to manage at the best of times, but the ONI includes dozens of
+researchers and collaboration with nongovernmental, rights, and advocacy organizations all
+over the world. The project is also truly interdisciplinary. It involves sociologists, lawyers, inter-
+national relations scholars, political scientists, and some of the world’s most skilled computer
+programmers.
+From 2003 to 2006, the ONI collaboration paid handsome dividends. It has produced
+eleven major country reports, reports that revealed a startling trend. States were aggressively
+finding ways to filter and control access to information for citizens within their borders. The
+reports were detailed, supported by strong evidence that had an immediate impact on policy
+worldwide. The ONI’s China report was delivered before two U.S. congressional committees
+and was featured in newspapers and on television around the world. The reports highlighted
+the embarrassing evidence that major U.S. corporations were implicated in Internet censor-
+ship practices. Once, the best and brightest of Silicon Valley were wiring the world; now, they
+were profiting from their collaboration with governments who were censoring and blocking
+websites. The ONI’s dogged investigations called into question the conventional wisdom
+about the Internet’s open architecture.
+The significance of the research that ONI has conducted goes beyond its analysis of Inter-
+net surveillance and censorship. It speaks to fundamental questions of world politics, its struc-
+ture, its power relationships, and its new forms of global control and resistance. The essays in
+this volume engage with all these issues. The editors of Access Denied present not only
+detailed overviews of their country investigations, but several incisive chapters that probe the
+legal, theoretical, and political implications of the growth of Internet-content-filtering practices
+worldwide.
+Access Denied tells us unmistakably that the Internet is one of the most important—and
+most contested—terrains of global politics. It is being fought over by states, civil society
+organizations, and corporations. The essays in this volume do a superb job of educating us
+about the new battlefield of global politics.
+Janice Gross Stein
+Director, Munk Centre for International Politics
+viii Janice Stein
+Preface
+This book is a testament to collaboration. About five years ago, it became clear to several of
+us—at the University of Cambridge, Harvard Law School, and the University of Toronto—that
+we might accomplish more by working together, across institutions and continents, than we
+could by going it alone. Since that time, the Oxford Internet Institute has joined our team,
+along with more than fifty researchers around the globe. Collaboration is not easy; we have
+had our share of struggles along the way to keep our partnership functioning effectively. Nei-
+ther the analytical chapters of this volume nor the new global data set that we have compiled,
+on which our analytical work relies, would be possible without the partnership that joins us.
+The insight that brought us together as collaborators was the sense that the architecture of
+the Internet was changing rapidly—and that these changes would have far-reaching implica-
+tions. One of the forces at work is that states are using technical means, in addition to other
+kinds of controls, to block access to sites on the Web that their citizens seemed to wish to
+access. We set out, together, to enumerate these technical restrictions as they emerged, to
+track them over time and across states and regions, and to set them into a broader context.
+Though we have published many of our findings to our Web site (http://www.opennet.net) and
+will continue to do so, this book is our first effort to tie the many strands of our shared work
+together into a single fabric.
+Just as we shared a sense of the importance of this area of inquiry, we realized also that
+this phenomenon could not properly be understood without bringing to bear a series of aca-
+demic disciplines to analyze it and to set it into a fulsome context. The way we have
+approached our work, which begins with technical enumeration, required technologists
+among us to develop a new methodology for testing for choke points in the Internet. Political
+scientists and international relations theorists hold another piece of the puzzle, as do those
+with expertise in regional studies. Those of us who study and practice international law
+and how it relates to information technologies understand another part of the whole. Our
+shared view is that interdisciplinary research is the only way truly to understand our field in all
+its complexity.
+Most important of all, there are those people on the ground, in the places where the state is
+seeking to impose control over the Internet, who have shed particular light upon what is hap-
+pening in the places we are studying. Many of these people take risks every day in the interest
+of promoting human rights, the rule of law, and other universally good causes. Many of these
+people have put themselves in harm’s way, in one fashion or another, to help make this book
